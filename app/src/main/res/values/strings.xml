@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Suggestion Matcher</string>
+
+
+    <string name="composer_intro_text">Please enter a comma separated list of suggestions to be provided.</string>
+    <string name="composer_list_error">"Sorry that's not a valid suggestion list."</string>
+    <string name="compose_complete">Complete</string>
+
+    <string name="suggestionComposer">Suggestion Composer</string>
+
+    <string name="composeHintText">Enter list here</string>
+
+    <string name="suggestionMatcher">Suggestion Matcher</string>
+    <string name="intro_text">Please enter at least two characters to try and guess a suggestion.</string>
+
+    <string name="autocompleteHintText">Enter text here</string>
+
+    <string name="picked_msg_formatter">User selected %s</string>
+
+
+</resources>
